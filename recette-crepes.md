@@ -1,3 +1,7 @@
 # Recettes des crêpes
 
-A compléter...
+Liste d'ingrédients
+
+- Farine
+- Lait
+- Oeufs
